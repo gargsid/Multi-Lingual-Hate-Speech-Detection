@@ -1,1 +1,1 @@
-# Multi-Lingual-Hate-Speech-Detection
+# CS685-HateSpeechDetection
